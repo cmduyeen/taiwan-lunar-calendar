@@ -1,0 +1,134 @@
+[
+  {
+    "countries": [
+      "TW"
+    ],
+    "tradition": "chinese",
+    "language": "zh-Hant",
+    "content": "festivals",
+    "legacy": false,
+    "start_year": 2026,
+    "end_year": 2027,
+    "supported_end_year": 2099,
+    "events": 22,
+    "file": "lunar_tw_chinese_zh-Hant_festivals_latest.ics",
+    "sha256": "95d78468e5b56f699cabd315b35c6b3c435de42c8328727fbd87e7cb4238d85b",
+    "sources": [
+      "https://www.dgpa.gov.tw/",
+      "https://www.hko.gov.hk/en/gts/time/conversion.htm",
+      "https://www.twtainan.net/en/statics/religion/"
+    ],
+    "date_status": "calculated-traditional-observance",
+    "app_subscription_tested": false
+  },
+  {
+    "countries": [
+      "TW"
+    ],
+    "tradition": "chinese",
+    "language": "zh-Hant",
+    "content": "observances",
+    "legacy": false,
+    "start_year": 2026,
+    "end_year": 2027,
+    "supported_end_year": 2099,
+    "events": 64,
+    "file": "lunar_tw_chinese_zh-Hant_observances_latest.ics",
+    "sha256": "72e0795029e129f62d2e31488945f4ef6cf8e97e52eb95667460ae639438dbe4",
+    "sources": [
+      "https://www.dgpa.gov.tw/",
+      "https://www.hko.gov.hk/en/gts/time/conversion.htm",
+      "https://www.twtainan.net/en/statics/religion/"
+    ],
+    "date_status": "calculated-traditional-observance",
+    "app_subscription_tested": false
+  },
+  {
+    "countries": [
+      "TW"
+    ],
+    "tradition": "chinese",
+    "language": "zh-Hant",
+    "content": "daily",
+    "legacy": false,
+    "start_year": 2026,
+    "end_year": 2027,
+    "supported_end_year": 2099,
+    "events": 730,
+    "file": "lunar_tw_chinese_zh-Hant_daily_latest.ics",
+    "sha256": "239a5bd66331b59c4f1493766760516aafbe44dfe5ac7c205d32cb82ad209baa",
+    "sources": [
+      "https://www.dgpa.gov.tw/",
+      "https://www.hko.gov.hk/en/gts/time/conversion.htm",
+      "https://www.twtainan.net/en/statics/religion/"
+    ],
+    "date_status": "calculated-traditional-observance",
+    "app_subscription_tested": false
+  },
+  {
+    "countries": [
+      "TW"
+    ],
+    "tradition": "chinese",
+    "language": "en",
+    "content": "festivals",
+    "legacy": false,
+    "start_year": 2026,
+    "end_year": 2027,
+    "supported_end_year": 2099,
+    "events": 22,
+    "file": "lunar_tw_chinese_en_festivals_latest.ics",
+    "sha256": "f01247f1d2ae781618f1430ca75380a7db2d93f28dc4070bf1522ecfbff8c1f6",
+    "sources": [
+      "https://www.dgpa.gov.tw/",
+      "https://www.hko.gov.hk/en/gts/time/conversion.htm",
+      "https://www.twtainan.net/en/statics/religion/"
+    ],
+    "date_status": "calculated-traditional-observance",
+    "app_subscription_tested": false
+  },
+  {
+    "countries": [
+      "TW"
+    ],
+    "tradition": "chinese",
+    "language": "en",
+    "content": "observances",
+    "legacy": false,
+    "start_year": 2026,
+    "end_year": 2027,
+    "supported_end_year": 2099,
+    "events": 64,
+    "file": "lunar_tw_chinese_en_observances_latest.ics",
+    "sha256": "7e25e3966ef7c551942f4e02ee866c5562505106a37ee955c7b73aa21dc07cf6",
+    "sources": [
+      "https://www.dgpa.gov.tw/",
+      "https://www.hko.gov.hk/en/gts/time/conversion.htm",
+      "https://www.twtainan.net/en/statics/religion/"
+    ],
+    "date_status": "calculated-traditional-observance",
+    "app_subscription_tested": false
+  },
+  {
+    "countries": [
+      "TW"
+    ],
+    "tradition": "chinese",
+    "language": "en",
+    "content": "daily",
+    "legacy": false,
+    "start_year": 2026,
+    "end_year": 2027,
+    "supported_end_year": 2099,
+    "events": 730,
+    "file": "lunar_tw_chinese_en_daily_latest.ics",
+    "sha256": "8dcc03b86be3bade9fc3438fb43e48f5e747c74c8ce34dea80188be3808c896c",
+    "sources": [
+      "https://www.dgpa.gov.tw/",
+      "https://www.hko.gov.hk/en/gts/time/conversion.htm",
+      "https://www.twtainan.net/en/statics/religion/"
+    ],
+    "date_status": "calculated-traditional-observance",
+    "app_subscription_tested": false
+  }
+]

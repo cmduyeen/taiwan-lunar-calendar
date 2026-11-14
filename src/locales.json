@@ -1,0 +1,73 @@
+{
+  "zh-Hant": {
+    "calendar": "農曆節日",
+    "daily": "農曆",
+    "observances": "農曆節日與朔望日",
+    "minimal": "望日與農曆新年",
+    "lunar_date": "農曆日期：{year}年{month}月{day}日{leap}",
+    "leap": "（閏月）",
+    "countries": "適用地區",
+    "notice": "傳統節日，不代表法定假日或補假安排。",
+    "moon_note": "望日指傳統農曆十五，並非天文學上的滿月時刻。",
+    "country_names": {
+      "TW": "臺灣"
+    },
+    "festivals": {
+      "lunar_new_year": "農曆新年",
+      "lantern": "元宵節",
+      "dragon_boat": "端午節",
+      "mid_autumn": "中秋節",
+      "qixi": "七夕節",
+      "ghost": "中元節",
+      "double_ninth": "重陽節",
+      "kitchen_gods": "祭灶",
+      "new_year_eve": "除夕",
+      "qingming": "清明節",
+      "new_moon": "朔日",
+      "full_moon": "望日",
+      "cny_day_2": "農曆新年第二天",
+      "mazu": "媽祖誕辰"
+    },
+    "overrides": {
+      "TW": {
+        "lunar_new_year": "春節",
+        "ghost": "中元節"
+      }
+    },
+    "residence_note": "供美國社群使用。節日日期遵循原曆法，並非美國法定假日。全天日期不因時區轉換而改變。"
+  },
+  "en": {
+    "calendar": "Lunar festivals",
+    "daily": "Lunar calendar",
+    "observances": "Lunar festivals and observances",
+    "minimal": "Full Moon and Lunar New Year",
+    "lunar_date": "Lunar date: {day}/{month}/{year}{leap}",
+    "leap": " (leap month)",
+    "countries": "Applies in",
+    "notice": "Traditional observance; not an official public-holiday or substitute-day schedule.",
+    "moon_note": "Full Moon means traditional lunar day 15, not an exact astronomical full moon.",
+    "country_names": {
+      "TW": "Taiwan"
+    },
+    "festivals": {
+      "lunar_new_year": "Lunar New Year",
+      "lantern": "Lantern Festival",
+      "dragon_boat": "Double Fifth / Dragon Boat Festival",
+      "mid_autumn": "Mid-Autumn Festival",
+      "qixi": "Qixi Festival",
+      "ghost": "Ghost Festival",
+      "double_ninth": "Double Ninth Festival",
+      "kitchen_gods": "Kitchen Gods Day",
+      "new_year_eve": "Lunar New Year's Eve",
+      "qingming": "Qingming Festival",
+      "new_moon": "First day of lunar month",
+      "full_moon": "Full Moon",
+      "cny_day_2": "Lunar New Year — Day 2",
+      "mazu": "Mazu’s Birthday"
+    },
+    "overrides": {
+      "TW": {}
+    },
+    "residence_note": "For communities in the United States. Festival dates follow the original calendar; these are not US public holidays. All-day dates are not shifted between time zones."
+  }
+}
